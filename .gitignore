@@ -1,0 +1,16 @@
+# Node (React)
+gambling-client/node_modules
+gambling-client/.env
+gambling-client/build
+
+# .NET (C#)
+gambling-server/bin
+gambling-server/obj
+gambling-server/*.db
+gambling-server/appsettings.Development.json
+gambling-server/*.user
+
+# General
+.env
+.DS_Store
+*.log
